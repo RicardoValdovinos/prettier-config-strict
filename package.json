@@ -1,0 +1,9 @@
+{
+  "name": "prettier-config-strict",
+  "version": "1.0.0",
+  "description": "A prettier config to go along with eslint-config-strict",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Ricardo Valdovinos",
+  "license": "MIT"
+}
