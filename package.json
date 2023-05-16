@@ -1,5 +1,5 @@
 {
-  "name": "prettier-config-strict",
+  "name": "@ricardovaldovinosorg/prettier-config-strict",
   "version": "1.0.0",
   "description": "A prettier config to go along with eslint-config-strict",
   "main": "index.js",
